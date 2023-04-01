@@ -1,0 +1,23 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    httparty (0.21.0)
+      mini_mime (>= 1.0.0)
+      multi_xml (>= 0.5.2)
+    mini_mime (1.1.2)
+    multi_xml (0.6.0)
+    nokogiri (1.14.2-x64-mingw-ucrt)
+      racc (~> 1.4)
+    racc (1.6.2)
+    table_print (1.5.7)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  httparty
+  nokogiri
+  table_print
+
+BUNDLED WITH
+   2.3.26
